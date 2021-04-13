@@ -5,5 +5,3 @@ Spring Security Basic
 - Google OAuth
 - Facebook OAuth
 - Naver OAuth
-
-# JWT (예정)
